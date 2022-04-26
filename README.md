@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Node js**
 - ♥️ I enjoy programming and sharing knowledge
 - 📧  How to reach me: shariful.islam.coder@gmail.com .
-- 
+- 👀 I’m looking for an internship to upgrade my skilss.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
