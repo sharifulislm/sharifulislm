@@ -21,7 +21,7 @@
 - <h3>👀 I’m looking for an internship to upgrade my skilss.</h3>
 
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifulislm&show_icons=true&locale=en&layout=compact" alt="sharifulislm" /></p>
 
 </br>
 <h3 align="left">💻 Technologies that I know:</h3>
@@ -48,7 +48,7 @@
 <a href="/sharifulislm.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sharifulislm.netlify.app" height="30" width="40" /></a>
 </p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifulislm&show_icons=true&locale=en&layout=compact" alt="sharifulislm" /></p>
+
 
 </div>
 
