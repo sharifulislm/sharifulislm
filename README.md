@@ -1,6 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif)](https://thumbs.gfycat.com/ThriftyDirtyBelugawhale-max-1mb.gif)
 <div>
 
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
+
 
 <h3 align="center">MERN STACK DEVELOPER</h3>
   </br>
@@ -39,7 +41,7 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">How to reach me:</h3>
 <p align="center">
 <a href="https://twitter.com/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharifulislm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharifulislm" height="30" width="40" /></a>
