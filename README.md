@@ -20,7 +20,7 @@
 - <h3>📧  How to reach me: shariful.islam.coder@gmail.com .</h3>
 - <h3>👀 I’m looking for an internship to upgrade my skilss.</h3>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifulislm&" alt="sharifulislm" /></p>
+
 
 
 </br>
