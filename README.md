@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif)](https://thumbs.gfycat.com/ThriftyDirtyBelugawhale-max-1mb.gif)
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-73b9c74a99ce21c0ba7b760b8828172b)](https://thumbs.gfycat.com/ThriftyDirtyBelugawhale-max-1mb.gif)
 <div>
 
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
@@ -10,7 +10,7 @@
   </br>
 
 
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-73b9c74a99ce21c0ba7b760b8828172b"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifulislm&label=Profile%20views&color=0e75b6&style=flat" alt="sharifulislm" /> </p>
 <h4>Looking forward to gain a position as ‘Web developer’ in Kuwait where I will be able to execute my learnings and ideas. My passion is exploring new ideas and knowledge related to programming and fixing my career in the area of Web development. A highly committed individual with the ability to accurately keep responsibilities in world by utilizing my web development expertise.. </h4>
 
