@@ -23,7 +23,14 @@
 - <h3>👀 I’m looking for an internship to upgrade my skilss.</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sharifulislm&theme=blue-green&hide_border=true" alt="sharifulislm" /></p>
 
-
+<h3 align="right">How to reach me:</h3>
+<p align="right">
+<a href="https://twitter.com/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharifulislm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharifulislm" height="30" width="40" /></a>
+<a href="https://fb.com/shariful.islam.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariful.islam.fb" height="30" width="40" /></a>
+<a href="https://instagram.com/sharifulism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharifulism" height="30" width="40" /></a>
+<a href="/sharifulislm.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sharifulislm.netlify.app" height="30" width="40" /></a>
+</p>
 
 </br>
 <h3 align="left">💻 Technologies that I know:</h3>
@@ -42,14 +49,7 @@
 
 
 
-<h3 align="center">How to reach me:</h3>
-<p align="center">
-<a href="https://twitter.com/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharifulislm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sharifulislm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharifulislm" height="30" width="40" /></a>
-<a href="https://fb.com/shariful.islam.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariful.islam.fb" height="30" width="40" /></a>
-<a href="https://instagram.com/sharifulism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharifulism" height="30" width="40" /></a>
-<a href="/sharifulislm.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sharifulislm.netlify.app" height="30" width="40" /></a>
-</p>
+
 </br>
 </br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislm&langs_count=14&theme=blue-green&layout=compact&hide=html" alt="sharifulislm" /></p>
