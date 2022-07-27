@@ -21,8 +21,8 @@
 - <h3>♥️ I enjoy programming and sharing knowledge </h3>
 - <h3>📧  How to reach me: shariful.islam.coder@gmail.com .</h3>
 - <h3>👀 I’m looking for an internship to upgrade my skilss.</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sharifulislm&theme=blue-green&hide_border=true" alt="sharifulislm" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislm&langs_count=14&theme=blue-green&layout=compact&hide=html" alt="sharifulislm" /></p>
 
 
 </br>
@@ -52,7 +52,7 @@
 </p>
 </br>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sharifulislm&theme=blue-green&hide_border=true" alt="sharifulislm" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislm&langs_count=14&theme=blue-green&layout=compact&hide=html" alt="sharifulislm" /></p>
 
 
 </div>
