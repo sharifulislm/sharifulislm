@@ -22,8 +22,8 @@
 - <h3>📧  How to reach me: shariful.islam.coder@gmail.com .</h3>
 - <h3>👀 I’m looking for an internship to upgrade my skilss.</h3>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislm&langs_count=14&theme=blue-green&layout=compact&hide=html" alt="sharifulislm" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifulislm&show_icons=true&locale=en&layout=compact" alt="sharifulislm" /></p>
 
 </br>
 <h3 align="left">💻 Technologies that I know:</h3>
@@ -31,7 +31,8 @@
 
 </br>
 </br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharifulislm&show_icons=true&locale=en" alt="sharifulislm" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharifulislm&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></p>
+
 
 
 
@@ -50,6 +51,8 @@
 <a href="/sharifulislm.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sharifulislm.netlify.app" height="30" width="40" /></a>
 </p>
 </br>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sharifulislm&theme=blue-green&hide_border=true" alt="sharifulislm" /></p>
 
 
 </div>
